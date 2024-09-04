@@ -1,2 +1,2 @@
 # my-first-repo
-![mijn foto](img/foto.jpg)
+![mijn foto](foto.jpg)
